@@ -1,12 +1,9 @@
 #include "main.h"
 
-/*a script that print _putchar*/
-
 /**
  * main - Print _putchar
- * Return: 0
+ * Return: Always 0
 */
-
 int main(void)
 {
 	_putchar('_');
